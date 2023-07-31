@@ -1,0 +1,4 @@
+include requirements/*.txt
+include odd/.mim/model-index.yml
+recursive-include odd/.mim/configs *.py *.yml
+recursive-include odd/.mim/tools *.sh *.py
