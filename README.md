@@ -110,3 +110,14 @@ There are 6 parameters:
 * `--oddvod-checkpoint` the model weights of VOD
 * `--vod-config` the normal vod config file, which is used to evaluate the final results
 
+# Citation
+```
+@inproceedings{zhang2023object,
+  title={Object Detection Difficulty: Suppressing Over-aggregation for Faster and Better Video Object Detection},
+  author={Zhang, Bingqing and Wang, Sen and Liu, Yifan and Kusy, Brano and Li, Xue and Liu, Jiajun},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={1768--1778},
+  year={2023}
+}
+```
+
